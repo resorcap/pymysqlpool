@@ -9,7 +9,7 @@
 
 import logging
 import threading
-from queue import Queue, Empty
+from Queue import Queue, Empty
 
 __version__ = '0.1'
 __author__ = 'Chris'
